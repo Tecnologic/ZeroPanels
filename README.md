@@ -8,6 +8,7 @@ Made with :heart: by Zruncho, with insights from 10+ beta testers
 
 ## Updates
 * 2022-01-23 Public release!
+* 2023-09-01 Update
 
 ## Why ZeroPanels?
 
