@@ -8,6 +8,7 @@ Made with :heart: by Zruncho, with insights from 10+ beta testers
 
 ## Updates
 * 2022-01-23 Public release!
+* 2023-09-01 Update (Added tophat corners and also door corners)
 
 ## Why ZeroPanels?
 
@@ -69,6 +70,8 @@ Enjoy!
 The 3 sizes are default [015], tight [025], and loose [001].
 
 The numbers represent the amount of "extra grip" - beyond 3mm - for the slot inside 1515 extrusions, for each side.
+
+If you want to use zeropanels for back just print rear clips from left and right and use left clips for right and right clips for left.
 
 This view shows the 001 size on a 3mm-slot-width extrusion: almost an exact fit, with no "extra grip".
 ![Side View Ortho](Renders/side_view_perspective.png)
